@@ -1,0 +1,9 @@
+### Photos Index
+GET http://localhost:3000/photos.json
+
+###
+GET http://localhost:3000/photos.json
+
+{
+  "id": 2
+}
